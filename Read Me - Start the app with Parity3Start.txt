@@ -1,0 +1,4 @@
+You must start the app with ParityNStart.m file in MATLAB.
+If MATLAB have a hard time to start parityNStart, you may have to shorten this dictionary name. It only should
+include English characters without any blanks.
+Best Regards.
